@@ -21,13 +21,16 @@ This repository is presented as an **open-source demo**, following **cloud-nativ
 
 ## 📁 Project Structure
 
+<pre>
 analytics-dashboard/
-├── client/ # Frontend (React + Vite)
-├── server/ # Backend (Flask + Supabase)
-├── shared/ # Shared types & utilities
-├── public/ # Static assets
-├── .env.example # Env vars template
-└── README.md # Project documentation
+├── client/        # Frontend (React + Vite)
+├── server/        # Backend (Flask + Supabase)
+├── shared/        # Shared types & utilities
+├── public/        # Static assets
+├── .env.example   # Env vars template
+└── README.md      # Project documentation
+</pre>
+
 
 ## 🏗️ Architecture
 
